@@ -32,7 +32,7 @@ body {
 .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: repeat(8, 1fr);
 }
 
 .button {
@@ -56,4 +56,8 @@ body {
 
 .button:active {
     background-color: #b5b5b5;
+}
+
+.button.scientific {
+    background-color: #4b4b4b;
 }
