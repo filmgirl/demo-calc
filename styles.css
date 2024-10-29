@@ -62,10 +62,3 @@ body {
     background-color: #4b4b4b;
 }
 
-.button.pi {
-    grid-column: span 2;
-}
-
-.button.e {
-    grid-column: span 2;
-}
