@@ -7,6 +7,7 @@ A web-based calculator for GitHub Universe
 - Percentage calculation
 - Toggle between positive and negative values
 - Clear the display
+- Scientific functions: sin, cos, tan, ln, log, exp, ^, √, sin⁻¹, cos⁻¹, tan⁻¹, !, π, and e
 
 ## How to Run the Web App
 1. Clone the repository:
